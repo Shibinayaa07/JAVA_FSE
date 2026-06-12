@@ -22,14 +22,6 @@ o	Create a test class to verify that only one instance of Logger is created and 
 */
 package deepskilling.data_structures_and_principles;
 
-public class ex1 {
-    public static void main(String[] args){
-        Logger a1 = Logger.getInstance();
-        Logger b1 = Logger.getInstance();
-
-        System.out.println(a1 == b1);
-    }    
-}
 class Logger{
     private static Logger instance;
     private Logger(){
@@ -42,4 +34,14 @@ class Logger{
         return instance;
 
     }
+}
+
+
+public class ex1 {
+    public static void main(String[] args){
+        Logger a1 = Logger.getInstance();
+        Logger b1 = Logger.getInstance();
+
+        System.out.println(a1 == b1);
+    }    
 }
