@@ -1,5 +1,3 @@
-
-
 /*
 Exercise 1: Implementing the Singleton Pattern
 Scenario:
