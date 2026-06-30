@@ -1,0 +1,10 @@
+com\example\testing\ExternalApi.class
+com\example\testing\InventoryRepository.class
+com\example\testing\OrderService.class
+com\example\testing\LoggingExample.class
+com\example\testing\UserService.class
+com\example\testing\MyService.class
+com\example\testing\Calculator.class
+com\example\testing\StringHelper.class
+com\example\testing\PaymentGateway.class
+com\example\testing\UserRepository.class

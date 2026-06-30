@@ -1,0 +1,8 @@
+com\example\testing\MockDependenciesTest.class
+com\example\testing\JUnitAdvancedTest.class
+com\example\testing\MockitoBasicTest.class
+com\example\testing\CalculatorBasicTest.class
+com\example\testing\Slf4jLoggingTest.class
+com\example\testing\SpringTestExercise$TestConfig.class
+com\example\testing\SpringTestExercise.class
+com\example\testing\MockitoAdvancedTest.class
