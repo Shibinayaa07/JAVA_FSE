@@ -32,5 +32,10 @@
 
     <modules>
         <module>deepskilling/week_1/junit_mockito_slf4j</module>
+        <module>deepskilling/week_2/library_management</module>
+        <module>deepskilling/week_2/employee_management_system</module>
+        <module>deepskilling/week_2/spring_data_jpa_handson_1</module>
+        <module>deepskilling/week_2/spring_data_jpa_handson_2</module>
+        <module>deepskilling/week_2/spring_data_jpa_handson_3</module>
     </modules>
 </project>

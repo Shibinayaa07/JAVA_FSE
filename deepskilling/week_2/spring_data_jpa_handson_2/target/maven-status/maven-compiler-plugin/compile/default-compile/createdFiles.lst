@@ -1,0 +1,12 @@
+com\cognizant\ormlearn2\model\Employee.class
+com\cognizant\ormlearn2\model\Stock.class
+com\cognizant\ormlearn2\repository\EmployeeRepository.class
+com\cognizant\ormlearn2\OrmLearnHandson2Application.class
+com\cognizant\ormlearn2\repository\DepartmentRepository.class
+com\cognizant\ormlearn2\model\Skill.class
+com\cognizant\ormlearn2\model\Country.class
+com\cognizant\ormlearn2\repository\SkillRepository.class
+com\cognizant\ormlearn2\service\EmployeeService.class
+com\cognizant\ormlearn2\model\Department.class
+com\cognizant\ormlearn2\repository\CountryRepository.class
+com\cognizant\ormlearn2\repository\StockRepository.class

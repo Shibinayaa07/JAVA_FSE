@@ -1,5 +1,0 @@
-# Created at 2026-06-30T16:11:08.834
-Boot Manifest-JAR contains absolute paths in classpath 'E:\Xampp\htdocs\JAVA_FSE\deepskilling\week_1\junit_mockito_slf4j\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
