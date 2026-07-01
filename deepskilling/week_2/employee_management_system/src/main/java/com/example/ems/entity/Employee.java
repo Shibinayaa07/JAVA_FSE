@@ -1,6 +1,6 @@
 package com.example.ems.entity;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "employees")

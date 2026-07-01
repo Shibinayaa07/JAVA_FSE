@@ -1,6 +1,6 @@
 package com.cognizant.ormlearn3.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 public class QuestionOption {
