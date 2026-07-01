@@ -1,0 +1,5 @@
+# Created at 2026-07-01T16:19:41.173
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Xampp\htdocs\JAVA_FSE\deepskilling\week_3\spring_rest_handson_2\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
