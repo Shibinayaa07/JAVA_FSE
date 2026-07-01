@@ -1,5 +1,0 @@
-com\cognizant\springrest4\service\CountryService.class
-com\cognizant\springrest4\exception\GlobalExceptionHandler.class
-com\cognizant\springrest4\controller\CountryController.class
-com\cognizant\springrest4\SpringRestHandson4Application.class
-com\cognizant\springrest4\model\Country.class
