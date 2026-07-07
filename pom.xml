@@ -38,5 +38,6 @@
         <module>deepskilling/week_2/spring_data_jpa_handson_2</module>
         <module>deepskilling/week_2/spring_data_jpa_handson_3</module>
         <module>deepskilling/week_3</module>
+        <module>deepskilling/week_4</module>
     </modules>
 </project>

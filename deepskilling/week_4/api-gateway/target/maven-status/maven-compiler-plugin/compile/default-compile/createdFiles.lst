@@ -1,0 +1,3 @@
+com\cognizant\apigateway\controller\FallbackController.class
+com\cognizant\apigateway\ApiGatewayApplication.class
+com\cognizant\apigateway\filter\LogFilter.class

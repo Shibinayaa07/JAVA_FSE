@@ -1,0 +1,4 @@
+com\cognizant\inventoryservice\client\ProductClient.class
+com\cognizant\inventoryservice\controller\InventoryController.class
+com\cognizant\inventoryservice\InventoryServiceApplication.class
+com\cognizant\inventoryservice\client\ProductClient$ProductResponse.class
