@@ -1,3 +1,5 @@
+import React from 'react';
+
 class Post{
     constructor(id,title,body){
         this.id = id;
